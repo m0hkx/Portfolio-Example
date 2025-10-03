@@ -45,7 +45,7 @@ npm start
 # Build for production
 npm run build
 
-🌍 Deployment
+# 🌍 Deployment
 Deploy easily on Netlify, Vercel, or GitHub Pages.
 
 Example:
@@ -54,7 +54,9 @@ npm run build
 Then upload the build/ folder to your hosting service.
 
 🖼️ Screenshots
-(Add screenshots or demo GIFs here for better presentation)
+<p align="center">
+  <img src="https://github.com/m0hkx/Portfolio-Example/blob/main/Showcase.png?raw=true" alt="Dashboard Preview" width="600">
+</p>
 
 📬 Contact
 If you’d like to connect, reach me at:
