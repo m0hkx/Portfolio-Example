@@ -53,16 +53,16 @@ npm run build
 
 Then upload the build/ folder to your hosting service.
 
-🖼️ Screenshots
+# 🖼️ Screenshots
 <p align="center">
   <img src="https://github.com/m0hkx/Portfolio-Example/blob/main/Showcase.png?raw=true" alt="Dashboard Preview" width="600">
 </p>
 
-📬 Contact
+# 📬 Contact
 If you’d like to connect, reach me at:
 
 - Portfolio: [Soon]()
-- Email: ziechannel0@gmail.com
+- Email: mkzie.dev@gmail.com
 - LinkedIn: linkedin.com/in/m0hkx
 
 ✨ Built with ❤️ to showcase my journey and projects.
