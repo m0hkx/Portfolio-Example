@@ -31,10 +31,10 @@ Other Tools: Icons (Lucide), Animations (Framer Motion)
 Clone the repository and install dependencies:
 
 # Clone repo
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/m0hkx/Portfolio-Example.git
 
 # Go into project folder
-cd portfolio
+cd portfolio-example
 
 # Install dependencies
 npm install

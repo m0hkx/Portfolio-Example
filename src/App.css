@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+.header {
+  background-color: #131313;
+  border: 1px solid #202020;
+  font-family: "Raleway", sans-serif;
+}
+
+.header a {
+  color: #C8C8C8;
+}
+
+.header a.selected {
+  color: #2FE9E9;
+}
+
+.header a:hover {
+  color: #2FE9E9;
+  transition: ease 1s;
+}
+
+.img-back {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  background: radial-gradient(circle, #28B3B3 0%, #114D4D 100%);
+  filter: blur(55px); /* يضيف توهج ناعم */
+}
+
+.cv-button:hover {
+  cursor: pointer;
+}
+
+.exp-button:hover {
+  cursor: pointer;
+  color: #26bebe;
+}
